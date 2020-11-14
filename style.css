@@ -1,0 +1,40 @@
+h1 {
+    background-image: url('./images/fanny\ lightborn.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    margin: 100px;
+    padding: 100 110px;
+    text-align: center;
+    font-size: 5em;
+    color: mediumblue;
+}
+
+.Heading {
+    text-align: center;
+}
+
+.Fanny {
+    color: #FF8C33;
+    background-color: darkblue;
+}
+
+.Bruno {
+    color: darkblue;
+    background-color: green;
+}
+
+body, html {
+    background-image: url('./images/white-cloud-sky-background_74190-4646.jpg');
+    background-size: 100% 100%;
+    
+}
+
+.btn-1 {
+    border: 1px solid red;
+    background: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    margin: 0 650px;
+}
